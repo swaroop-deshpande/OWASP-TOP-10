@@ -21,7 +21,7 @@ Ans =)18.04.4
 
 → Q6)Print out the MOTD.  What favorite beverage is shown?
 look 900-header
-(command is fetc/update-motd-d).
+(command is fetc/update-motd-d)
 Answer:dr pepper
 
 
