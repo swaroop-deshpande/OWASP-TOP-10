@@ -1,4 +1,4 @@
-•Staut the machine, and answer these questions
+•Start the machine, and answer these questions
 
 Q1)What strange text file is in the website root directory? 
 =) Give the lieux command for listing files (ls), & there will be a los of files visible, out of which, we have to figure out the unusual one.
