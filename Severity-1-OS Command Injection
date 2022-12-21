@@ -1,0 +1,27 @@
+•Staut the machine, and answer these questions
+
+Q1)What strange text file is in the website root directory? 
+=) Give the lieux command for listing files (ls), & there will be a los of files visible, out of which, we have to figure out the unusual one.
+ANS→ drpepper.txt
+
+(Q2)How many non-root/non-service/non-daemon users are there?
+Here none user are the above, so the answer is 0.
+
+(Q3)What user is this app running as?
+ Giving  the command "id" will give the answer.
+Any =) www-data.
+
+O4)What is the user's shell set as?
+Give command "cat letcl passwd"
+→ Ans- /usr/sbin/nologin
+
+95)What version of Ubuntu is running?
+Command→ "lsb release -a"
+Ans =)18.04.4
+
+→ Q6)Print out the MOTD.  What favorite beverage is shown?
+look 900-header
+(command is fetc/update-motd-d).
+Answer:dr pepper
+
+
